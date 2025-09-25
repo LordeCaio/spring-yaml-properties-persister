@@ -1,0 +1,3 @@
+greetings:
+  hello-user: "Hello, {0}! This is a YAML file"
+  goodbye-user: "Goodbye, {0}! See you later!"
